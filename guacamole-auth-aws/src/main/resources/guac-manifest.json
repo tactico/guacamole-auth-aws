@@ -1,0 +1,16 @@
+{
+
+    "guacamoleVersion" : "0.9.8",
+
+    "name"      : "Tactico AWS Authentication 0.9",
+    "namespace" : "tactico-aws",
+
+    "authProviders" : [
+        "com.tactico.guacamole.auth.aws.AWSAuthenticationProvider"
+    ],
+
+    "translations" : [
+        "translations/en.json"
+    ]
+
+}

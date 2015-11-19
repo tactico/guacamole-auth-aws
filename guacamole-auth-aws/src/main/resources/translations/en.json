@@ -1,0 +1,12 @@
+{
+   "APP" : {
+
+        "NAME" : "VT REMOTE SERVER 0.9"
+
+    },
+    
+    "DATA_SOURCE_TACTICO_AWS" : {
+        "NAME" : "Tactico AWS"
+    }
+
+}
